@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Welcome to Sextant Application
+          Now develpoin gfirst apppliatina anode jasn
         </a>
       </header>
     </div>
